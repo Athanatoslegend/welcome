@@ -1,0 +1,31 @@
+using System;
+
+namespace CODE
+{
+    class Program
+    {
+           static void Main(sting[] args)
+           } 
+       Console.Title="welcome box";
+       Console.Foregroundcolor=Consolecolor.Black;
+       Console.WindowHeight=40;
+                    Console.WriteLine('Welcome to Athanatos legend🧧 
+
+
+
+discord server:https://discord.com/invite/UZPhq9eAdD
+youtube:https://www.youtube.com/channel/UC57FXQsFtJsOeh3EjRA_PVQ
+twitch:https://www.twitch.tv/athanatoslegend
+twitter:https://twitter.com/AthanatosLegend
+instagram:https://www.instagram.com/athanatoslegend.comm/
+email:athanatoslegendcompany@gmail.come");
+                    Console.RaidLine();
+                    Console.WriteLine("Sorry, I can not read messages');
+                    
+            }       Console.ReadKey();
+     }
+}
+    
+
+
+
