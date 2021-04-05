@@ -9,7 +9,7 @@ namespace welcome massages
        Console.Title="welcome box";
        Console.Foregroundcolor=Consolecolor.Black;
        Console.WindowHeight=40;
-                    Console.WriteLine('Welcome to Athanatos legend🧧 
+                    Console.WriteLine("Welcome to Athanatos legend🧧 
 
 
 
