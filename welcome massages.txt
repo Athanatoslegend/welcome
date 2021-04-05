@@ -20,7 +20,7 @@ twitter:https://twitter.com/AthanatosLegend
 instagram:https://www.instagram.com/athanatoslegend.comm/
 email:athanatoslegendcompany@gmail.come");
                     Console.RaidLine();
-                    Console.WriteLine("Sorry, I can not read messages');
+                    Console.WriteLine("Sorry, I can not read messages");
                     
             }       Console.ReadKey();
      }
