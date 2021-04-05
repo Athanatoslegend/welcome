@@ -1,6 +1,6 @@
 using System;
 
-namespace CODE
+namespace welcome massages
 {
     class Program
     {
