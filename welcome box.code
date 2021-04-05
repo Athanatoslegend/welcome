@@ -25,7 +25,3 @@ email:athanatoslegendcompany@gmail.come");
             }       Console.ReadKey();
      }
 }
-    
-
-
-
